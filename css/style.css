@@ -1,0 +1,55 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-color{
+    background-color: #feeae9;
+}
+
+.slider-price{
+    color: #FF136F;
+}
+
+.s-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+}
+
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat-1{
+    background-color: orange;
+}
+
+.cat-2{
+    background-color: orchid;
+}
+
+.cat-3{
+    background-color: blue;
+}
+
+.category-img{
+    width: 100px;
+}
+
+.s-card{
+    border-radius: 10px;
+}
+
+.sh-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+}
+
+.sub-bg{
+    background-color: #fceae8;
+    border-radius: 8px;
+    height: 300px;
+}
